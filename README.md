@@ -2,7 +2,7 @@
 <h1 align="left">Hey 👋, I'm Zak!</h1>
 
 <p>
-  Obsessed with Machine Learning and Mathematical Modelling and their applications in solving complex problems in finance, physics, and optimization. Currently interning at Hiscox working on Fraud Detection Models using XGBoost. Loves code-heavy and low boilerplate environments and really likes to build from scratch!
+  Obsessed with Machine Learning and Mathematical Modelling and their applications in solving complex problems in finance, physics, and optimization. Currently open to internships in Data Science / Research Engineering for Summer 2026. Loves code-heavy and low boilerplate environments and really likes to build from scratch!
 </p>
 
 
