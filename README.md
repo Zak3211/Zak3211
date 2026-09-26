@@ -6,20 +6,20 @@
 
 ### 🔨 Currently Working On
 
-**[JJ Provenance](#)** — An open-source project exploring line-level operation log blame for [Jujutsu](https://github.com/jj-vcs/jj).
+An open-source project exploring line-level operation log blame for [Jujutsu](https://github.com/jj-vcs/jj).
 
 ### 🖥️ Languages
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white) 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
 
 ### 💡 Interests
 
-* Version Control Systems
-* Distributed Systems
-* Machine Learning Infrastructure
-* Scientific Computing
+🔀 Version Control Systems&nbsp;<br>
+⚙️ Machine Learning Infrastructure&nbsp;<br>
+🌐 Distributed Systems&nbsp;<br>
+🔬 Scientific Computing
 
 ### 🐍 Machine Learning Toolkit
 
